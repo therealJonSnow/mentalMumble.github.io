@@ -41,7 +41,6 @@ a:hover{
 
 .title{
 	color: white;
-	background-image: url('TitleBanner1.jpg');
 	height: 700px;
 	padding-right: 0; /*15px in bootstrap.css*/
     padding-left: 0;  /*idem*/
