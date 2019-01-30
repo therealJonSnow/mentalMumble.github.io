@@ -1,0 +1,155 @@
+html{
+	background-image: url();
+}
+
+body{
+	background: white;
+	color: black;
+	font-family: Poiret One;
+
+
+}
+
+p{
+	font-family: Raleway;
+}
+
+p{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	text-align: left;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.MainNav{
+
+}
+
+.nav-link{
+	font-family: Megrim;
+	font-weight: 5px;
+	font-size: 25px;
+	text-shadow: 0px 0px 0px rgb(171, 171, 171);
+}
+
+.title{
+	color: white;
+	background-image: url('TitleBanner1.jpg');
+	height: 700px;
+	padding-right: 0; /*15px in bootstrap.css*/
+    padding-left: 0;  /*idem*/
+    margin-right: auto;
+    margin-left: auto;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-bottom: 2rem;
+}
+
+.overflow{	
+	overflow: hidden;
+}
+
+.Heading{
+	padding: 200px 20px 0px 50px;
+	margin-bottom: 0px 0px;
+	text-align: right;
+	font-size: 100px;
+	font-weight: 5px;
+	text-shadow: 2px 2px 7px black;
+	font-family: Megrim;
+}
+
+.tagLine{
+	font-family: Poiret One;
+	text-align: right;
+	text-shadow: 2px 2px 7px black;
+	padding: 0px 30px 0px 0px;
+}
+
+.subHead{
+	margin-top: 5px;
+	margin-bottom: 40px;
+	font-family: Poiret One;
+	text-align: center;
+	text-shadow: 2px 2px 7px black;	
+}
+
+.subSect{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.btmSect{
+
+}
+
+.subText{
+	font-family: Poiret One;
+	text-align: center;
+	font-weight: 10px;
+}
+
+.pink{
+	color: pink;
+	
+}
+
+
+.bg-js{
+	background-color: transparent; 
+}
+
+.fixed-top{
+	background: transparent;
+	transition: background-color 200ms linear;
+}
+
+.fixed-top.scrolled {
+	background: white;
+	transition: background-color 500ms linear;
+	border-bottom: 1px grey solid;
+}
+
+.hrMain{
+	margin-top: 2rem;
+	height: 5px;
+	border: 0;
+	box-shadow: 0px 10px 10px -10px #8c8b8b inset;
+}
+
+#listleft{
+	color: white;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	font-family: Raleway;
+	text-align: right;
+}
+
+#listright{
+	color: white;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	font-family: Raleway;
+	text-align: right;
+}
+
+.bottomRow{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background:	rgb(171, 171, 171);
+	margin-top: 3rem;
+}
+
+input.search-query {
+    background-color: rgb(171, 171, 171);
+    color: white;
+    border: 1px black solid;
+}
